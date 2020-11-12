@@ -1,0 +1,33 @@
+.nav_buttons {
+    display: inline-block;
+    padding: 15px;
+    background-color: lightgoldenrodyellow;
+}
+
+#nav {
+    background-color: grey;
+}
+
+#div1 {
+    width: 29%;
+    float: left;
+    background-color: lightgrey;
+    height: 1000px;
+}
+
+#div2 {
+    width: 71%;
+    float: left;
+    background-color: lightblue;
+    height: 1000px;
+} 
+
+#div1top {
+    background-color: plum;
+    height: 300px;
+}
+
+#div1bottom {
+    background-color:orange;
+    height: 700px;
+}
